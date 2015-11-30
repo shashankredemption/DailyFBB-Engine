@@ -11,6 +11,7 @@ Hopefully this script can help set the best lineup without effort.
 
 Prerequisites:
 	node
+	or-tools (https://developers.google.com/optimization/installing)
 
 1) Download all files from this page, and make sure they are at the same level in a folder.
 
