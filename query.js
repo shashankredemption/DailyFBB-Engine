@@ -97,6 +97,7 @@ positionPairs(allSG, sgAllPairs)
 positionPairs(allSF, sfAllPairs)
 positionPairs(allPF, pfAllPairs)
 
+
 // // POSITION QUADS ------------------------------------------
 // // QUADS UP PLAYERS AT TWO POSITIONS.
 // // FILTERING IS CONTROLLED BY FINAL IF STATEMENT, WHERE QUAD
@@ -129,7 +130,6 @@ function positionQuads(pairArray1, pairArray2, newArray){
 
 positionQuads(pgAllPairs, sgAllPairs, pgsgQuad)
 positionQuads(sfAllPairs, pfAllPairs, sfpfQuad)
-
 
 console.log(allPG.length, allSG.length, allSF.length, allPF.length, allC.length)
 console.log(pgAllPairs.length, sgAllPairs.length, sfAllPairs.length, pfAllPairs.length)

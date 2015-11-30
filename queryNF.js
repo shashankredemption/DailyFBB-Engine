@@ -20,9 +20,9 @@ for (var i = 0; i < playerLength; i++){
 		player = [];
 		var id = data["players"][i]['id'];
 		var name = data["players"][i]['name'];
-		// var team = data["players"][i]['team']
+		var team = data["teams"][data["players"][i]['team_id']]
 		var position = data["players"][i]['depth_position'];
-		player.push(id, name, position);
+		player.push(id, name, position, team);
 		playerArray.push(player);
 	}
 }
@@ -41,7 +41,7 @@ for (var l = 0; l < proLength; l++){
 			var ratio = projectionArray[k][3]
 			var ppp = parseInt(salary / points)
 			var team = playerArray[l][3]
-			completePlayer.push(name, position, salary, points, ratio, ppp)
+			completePlayer.push(name, position, salary, points, ratio, ppp, team)
 			omnibus.push(completePlayer)
 		}
 	}
