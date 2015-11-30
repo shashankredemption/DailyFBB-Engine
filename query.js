@@ -173,7 +173,7 @@ for (var j = 0; j < length1; j++){
 			countTeams(teams)
 			throwAwayTeamsWithMultPlayers(countTeams(teams)[1])
 			// console.log(countTeams(teams)[1])
-			if(points > 250 && price <= 60000 && holdingCell.length === 0){
+			if(points > 240 && price <= 100000){
 				lineups.push(posEight)
 			}
 		}
