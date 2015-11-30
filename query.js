@@ -59,11 +59,11 @@ function positionFunc(pos, array, points){
 	}
 }
 
-positionFunc('PG', allPG, 25)
-positionFunc('SG', allSG, 25)
-positionFunc('SF', allSF, 25)
-positionFunc('PF', allPF, 25)
-positionFunc('C', allC, 25)
+positionFunc('PG', allPG, 15)
+positionFunc('SG', allSG, 15)
+positionFunc('SF', allSF, 15)
+positionFunc('PF', allPF, 15)
+positionFunc('C', allC, 15)
 
 // console.log(omnibus)
 
@@ -179,7 +179,6 @@ for (var j = 0; j < length1; j++){
 		}
 	}
 }
-
 var sortedOut = lineups
 sortedOut.sort(function(a,b){
 	return b[10] - a[10]

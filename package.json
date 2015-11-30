@@ -6,7 +6,7 @@
     "bluebird": "^2.9.13",
     "cheerio": "^0.18.0",
     "promise": "^6.1.0",
-    "request": "^2.53.0",
+    "request": "^2.53.0"
   },
   "main": "download.js",
   "devDependencies": {},
