@@ -57,14 +57,28 @@ POSITION_LIMITS = [
 
 ROSTER_SIZE = 9
 
+position_map = {}
+
+def get_correct_positions():
+    with open('fanduel.csv', 'rb') as fanduel_csvfile:
+        fanduel_data = csv.DictReader(fanduel_csvfile, skipinitialspace=True)
+
+        for row in fanduel_data:
+            position = row['Position']
+            first_name = row['First Name']
+            last_name = row['Last Name']
+            position_map[first_name + ' ' + last_name] = position
+            
 def run():
     solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
 
     all_players = []
+    get_correct_positions()
     with open('players.csv', 'rb') as csvfile:
         csvdata = csv.DictReader(csvfile, skipinitialspace=True)
 
         for row in csvdata:
+            row['position'] = position_map[row['player']]
             all_players.append(Player(row))
 
     variables = []
