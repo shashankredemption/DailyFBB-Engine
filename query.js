@@ -97,6 +97,7 @@ positionPairs(allSG, sgAllPairs)
 positionPairs(allSF, sfAllPairs)
 positionPairs(allPF, pfAllPairs)
 
+
 // // POSITION QUADS ------------------------------------------
 // // QUADS UP PLAYERS AT TWO POSITIONS.
 // // FILTERING IS CONTROLLED BY FINAL IF STATEMENT, WHERE QUAD
@@ -130,7 +131,6 @@ function positionQuads(pairArray1, pairArray2, newArray){
 positionQuads(pgAllPairs, sgAllPairs, pgsgQuad)
 positionQuads(sfAllPairs, pfAllPairs, sfpfQuad)
 
-
 console.log(allPG.length, allSG.length, allSF.length, allPF.length, allC.length)
 console.log(pgAllPairs.length, sgAllPairs.length, sfAllPairs.length, pfAllPairs.length)
 console.log(pgsgQuad.length, sfpfQuad.length)
@@ -142,6 +142,7 @@ var length1 = pgsgQuad.length;
 var length2 = sfpfQuad.length;
 
 for (var j = 0; j < length1; j++){
+	console.log(j)
 	var i = j + 1;
 	for (var i; i < length2; i++){
 		var pos1name = pgsgQuad[j][0]
@@ -173,7 +174,7 @@ for (var j = 0; j < length1; j++){
 			countTeams(teams)
 			throwAwayTeamsWithMultPlayers(countTeams(teams)[1])
 			// console.log(countTeams(teams)[1])
-			if(points > 240 && price <= 100000){
+			if(points > 245 && price <= 60000){
 				lineups.push(posEight)
 			}
 		}
