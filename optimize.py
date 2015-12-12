@@ -78,7 +78,8 @@ def run():
         csvdata = csv.DictReader(csvfile, skipinitialspace=True)
 
         for row in csvdata:
-            row['position'] = position_map[row['player']]
+            name = row['player']
+            row['position'] = position_map[name]
             all_players.append(Player(row))
 
     variables = []
