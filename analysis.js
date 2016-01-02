@@ -1,5 +1,6 @@
 var nfData = require('./queryNF.js')
-
+var rotoqlData = require('./queryRotoQL.js')
+rotoqlData = rotoqlData.rotoql
 nfDataLength = nfData.nf.length;
 
 mergedArray = []
@@ -11,13 +12,16 @@ for (var i = 0; i < nfDataLength; i++) {
 	var sal = nfData.nf[i][2]
 	var nf_points = nfData.nf[i][3]
 	var team = nfData.nf[i][6]["abbrev"]
-	// console.log(team)
-	var teams = ["POR", "PHX", "LAL", "SA"]
-	// ['OKC', 'UTA', 'MIN', 'DEN', 'POR', 'PHO', 'LAL', 'SA']
-	if (teams.indexOf(team) >= 0) {
-		var player = '' + pos + ", " + name + ", " + nf_points + ", " + sal + "\n"
-		csvContent += player
-	}
-}
+
+	var teams = ["BKN", "BOS", "SAC", "PHX"]
+	if (teams.indexOf(team) < 0) {
+		if (rotoqlData[name]) {
+			var rotoql_points = rotoqlData[name].projection
+			var avg_points = (nf_points + rotoql_points) / 2
+			var player = '' + pos + ", " + name + ", " + avg_points + ", " + sal + "\n"
+			csvContent += player
+		};
+	};
+};
 
 console.log(csvContent)
