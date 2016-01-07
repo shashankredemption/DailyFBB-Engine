@@ -1,87 +1,87 @@
 [
   {
     "name":"Russell Westbrook PG",
-    "projection":54.8,
+    "projection":50.5,
     "team":"OKC",
-    "salary":"$11,000"
-  },
-  {
-    "name":"Anthony Davis PF",
-    "projection":45.8,
-    "team":"NO",
-    "salary":"$10,100"
-  },
-  {
-    "name":"Stephen Curry PG",
-    "projection":44.1,
-    "team":"GS",
-    "salary":"$11,000"
-  },
-  {
-    "name":"Kevin Durant SF",
-    "projection":42.8,
-    "team":"OKC",
-    "salary":"$9,800"
-  },
-  {
-    "name":"James Harden SG",
-    "projection":42.3,
-    "team":"HOU",
-    "salary":"$10,500"
-  },
-  {
-    "name":"Draymond Green PF",
-    "projection":42,
-    "team":"GS",
-    "salary":"$9,400"
+    "salary":"$10,700"
   },
   {
     "name":"Kemba Walker PG",
-    "projection":41,
+    "projection":45.5,
     "team":"CHA",
-    "salary":"$8,600"
+    "salary":"$8,700"
   },
   {
-    "name":"Andre Drummond C",
-    "projection":40.4,
-    "team":"DET",
-    "salary":"$9,400"
+    "name":"Anthony Davis PF",
+    "projection":45.4,
+    "team":"NO",
+    "salary":"$10,200"
   },
   {
-    "name":"Chris Paul PG",
-    "projection":39.2,
-    "team":"LAC",
+    "name":"Kevin Durant SF",
+    "projection":44.8,
+    "team":"OKC",
+    "salary":"$9,900"
+  },
+  {
+    "name":"John Wall PG",
+    "projection":44.4,
+    "team":"WAS",
+    "salary":"$9,900"
+  },
+  {
+    "name":"Brook Lopez C",
+    "projection":43.4,
+    "team":"BKN",
+    "salary":"$8,500"
+  },
+  {
+    "name":"Kyle Lowry PG",
+    "projection":40.9,
+    "team":"TOR",
     "salary":"$8,900"
   },
   {
-    "name":"Nikola Vucevic C",
-    "projection":37.9,
-    "team":"ORL",
-    "salary":"$8,200"
-  },
-  {
-    "name":"Khris Middleton SF",
-    "projection":37.5,
-    "team":"MIL",
-    "salary":"$6,800"
-  },
-  {
-    "name":"Kawhi Leonard SF",
-    "projection":36.8,
-    "team":"SA",
+    "name":"Carmelo Anthony SF",
+    "projection":39.4,
+    "team":"NY",
     "salary":"$8,600"
   },
   {
-    "name":"Dwight Howard C",
-    "projection":36.5,
-    "team":"HOU",
+    "name":"Paul George SF",
+    "projection":39.2,
+    "team":"IND",
+    "salary":"$8,900"
+  },
+  {
+    "name":"Andre Drummond C",
+    "projection":39.2,
+    "team":"DET",
+    "salary":"$9,200"
+  },
+  {
+    "name":"Chris Paul PG",
+    "projection":39,
+    "team":"LAC",
+    "salary":"$9,000"
+  },
+  {
+    "name":"Chris Bosh PF",
+    "projection":37.9,
+    "team":"MIA",
+    "salary":"$7,900"
+  },
+  {
+    "name":"DeAndre Jordan C",
+    "projection":37.7,
+    "team":"LAC",
     "salary":"$7,900"
   },
   {
     "name":"LeBron James SF",
-    "projection":36.4,
+    "projection":36,
     "team":"CLE",
-    "salary":"$9,800"
+    "salary":"$9,700"
   },
   {
     "name":"Nicolas Batum SF",
@@ -96,16 +96,16 @@
     "salary":"$9,000"
   },
   {
-    "name":"DeAndre Jordan C",
-    "projection":35.7,
-    "team":"LAC",
-    "salary":"$7,800"
+    "name":"DeMar DeRozan SG",
+    "projection":35.9,
+    "team":"TOR",
+    "salary":"$8,200"
   },
   {
-    "name":"Will Barton SG",
-    "projection":35.6,
-    "team":"DEN",
-    "salary":"$7,200"
+    "name":"Damian Lillard PG",
+    "projection":34.5,
+    "team":"POR",
+    "salary":"$8,800"
   },
   {
     "name":"Tyreke Evans PG",
@@ -114,88 +114,154 @@
     "salary":"$7,500"
   },
   {
-    "name":"Marc Gasol C",
+    "name":"Will Barton SG",
     "projection":34.4,
-    "team":"MEM",
+    "team":"DEN",
+    "salary":"$7,300"
+  },
+  {
+    "name":"Ricky Rubio PG",
+    "projection":34.1,
+    "team":"MIN",
+    "salary":"$7,600"
+  },
+  {
+    "name":"Hassan Whiteside C",
+    "projection":34,
+    "team":"MIA",
+    "salary":"$7,600"
+  },
+  {
+    "name":"Isaiah Thomas PG",
+    "projection":34,
+    "team":"BOS",
     "salary":"$8,100"
   },
   {
     "name":"Gordon Hayward SF",
-    "projection":33.7,
+    "projection":33.9,
     "team":"UTA",
     "salary":"$7,600"
   },
   {
-    "name":"Karl-Anthony Towns C",
-    "projection":33.1,
-    "team":"MIN",
-    "salary":"$7,900"
-  },
-  {
-    "name":"Mike Conley PG",
-    "projection":32.8,
-    "team":"MEM",
-    "salary":"$6,700"
-  },
-  {
-    "name":"Paul George SF",
-    "projection":32.4,
-    "team":"IND",
-    "salary":"$8,600"
-  },
-  {
-    "name":"Ricky Rubio PG",
-    "projection":32.4,
-    "team":"MIN",
-    "salary":"$7,600"
-  },
-  {
-    "name":"Michael Carter-Williams PG",
-    "projection":31.9,
-    "team":"MIL",
-    "salary":"$6,700"
-  },
-  {
-    "name":"Kevin Love PF",
-    "projection":31.4,
-    "team":"CLE",
-    "salary":"$7,300"
-  },
-  {
-    "name":"Nerlens Noel PF",
-    "projection":30.9,
-    "team":"PHI",
-    "salary":"$6,300"
-  },
-  {
-    "name":"Giannis Antetokounmpo SG",
-    "projection":29.8,
-    "team":"MIL",
-    "salary":"$7,000"
+    "name":"Thaddeus Young PF",
+    "projection":33.6,
+    "team":"BKN",
+    "salary":"$7,100"
   },
   {
     "name":"Zaza Pachulia C",
-    "projection":29.7,
+    "projection":33.1,
     "team":"DAL",
-    "salary":"$6,500"
+    "salary":"$6,600"
   },
   {
-    "name":"Reggie Jackson PG",
-    "projection":29.6,
-    "team":"DET",
-    "salary":"$7,500"
+    "name":"C.J. McCollum SG",
+    "projection":32.9,
+    "team":"POR",
+    "salary":"$8,200"
   },
   {
-    "name":"George Hill PG",
-    "projection":29.5,
-    "team":"IND",
+    "name":"Marcin Gortat C",
+    "projection":32.7,
+    "team":"WAS",
+    "salary":"$7,000"
+  },
+  {
+    "name":"Marc Gasol C",
+    "projection":31.6,
+    "team":"MEM",
+    "salary":"$7,800"
+  },
+  {
+    "name":"Kawhi Leonard SF",
+    "projection":31.5,
+    "team":"SA",
+    "salary":"$8,500"
+  },
+  {
+    "name":"Dwyane Wade SG",
+    "projection":31,
+    "team":"MIA",
+    "salary":"$7,300"
+  },
+  {
+    "name":"Rodney Hood SG",
+    "projection":30.9,
+    "team":"UTA",
     "salary":"$5,600"
   },
   {
-    "name":"Monta Ellis SG",
+    "name":"Jameer Nelson PG",
+    "projection":30.8,
+    "team":"DEN",
+    "salary":"$5,500"
+  },
+  {
+    "name":"Jae Crowder SF",
+    "projection":30.7,
+    "team":"BOS",
+    "salary":"$6,200"
+  },
+  {
+    "name":"Karl-Anthony Towns C",
+    "projection":30.7,
+    "team":"MIN",
+    "salary":"$7,500"
+  },
+  {
+    "name":"Zach Randolph PF",
+    "projection":30.6,
+    "team":"MEM",
+    "salary":"$6,500"
+  },
+  {
+    "name":"Jeff Withey C",
+    "projection":30.5,
+    "team":"UTA",
+    "salary":"$4,700"
+  },
+  {
+    "name":"Mike Conley PG",
+    "projection":30.2,
+    "team":"MEM",
+    "salary":"$6,500"
+  },
+  {
+    "name":"Kenneth Faried PF",
+    "projection":29.9,
+    "team":"DEN",
+    "salary":"$6,500"
+  },
+  {
+    "name":"Otto Porter SF",
+    "projection":29.7,
+    "team":"WAS",
+    "salary":"$5,900"
+  },
+  {
+    "name":"LaMarcus Aldridge PF",
+    "projection":29.5,
+    "team":"SA",
+    "salary":"$7,100"
+  },
+  {
+    "name":"Andrew Wiggins SF",
+    "projection":29.5,
+    "team":"MIN",
+    "salary":"$6,600"
+  },
+  {
+    "name":"Danilo Gallinari SF",
     "projection":29.4,
-    "team":"IND",
-    "salary":"$5,800"
+    "team":"DEN",
+    "salary":"$7,100"
+  },
+  {
+    "name":"Brandon Knight PG",
+    "projection":29.1,
+    "team":"PHO",
+    "salary":"$6,700"
   },
   {
     "name":"Derrick Favors PF",
@@ -204,358 +270,448 @@
     "salary":"$7,700"
   },
   {
-    "name":"Klay Thompson SG",
-    "projection":29,
-    "team":"GS",
+    "name":"Serge Ibaka PF",
+    "projection":28.7,
+    "team":"OKC",
+    "salary":"$6,500"
+  },
+  {
+    "name":"Kevin Love PF",
+    "projection":28.4,
+    "team":"CLE",
     "salary":"$7,400"
   },
   {
-    "name":"Enes Kanter C",
-    "projection":28.9,
-    "team":"OKC",
-    "salary":"$5,100"
+    "name":"Monta Ellis SG",
+    "projection":28.2,
+    "team":"IND",
+    "salary":"$6,000"
   },
   {
-    "name":"Tobias Harris SF",
-    "projection":28.2,
+    "name":"Reggie Jackson PG",
+    "projection":27.9,
+    "team":"DET",
+    "salary":"$7,200"
+  },
+  {
+    "name":"Nikola Vucevic C",
+    "projection":27.8,
     "team":"ORL",
-    "salary":"$6,400"
+    "salary":"$7,500"
+  },
+  {
+    "name":"Kristaps Porzingis PF",
+    "projection":26.9,
+    "team":"NY",
+    "salary":"$6,200"
+  },
+  {
+    "name":"Evan Turner SF",
+    "projection":26.8,
+    "team":"BOS",
+    "salary":"$5,700"
+  },
+  {
+    "name":"George Hill PG",
+    "projection":26.7,
+    "team":"IND",
+    "salary":"$5,600"
+  },
+  {
+    "name":"Dirk Nowitzki PF",
+    "projection":26.4,
+    "team":"DAL",
+    "salary":"$6,900"
+  },
+  {
+    "name":"Robin Lopez C",
+    "projection":26.1,
+    "team":"NY",
+    "salary":"$4,100"
+  },
+  {
+    "name":"Goran Dragic PG",
+    "projection":25.9,
+    "team":"MIA",
+    "salary":"$5,800"
   },
   {
     "name":"Cody Zeller PF",
-    "projection":27.7,
+    "projection":25.5,
     "team":"CHA",
     "salary":"$4,700"
   },
   {
-    "name":"Greg Monroe C",
-    "projection":27.7,
-    "team":"MIL",
-    "salary":"$7,200"
+    "name":"Trey Burke PG",
+    "projection":25.4,
+    "team":"UTA",
+    "salary":"$4,900"
   },
   {
-    "name":"Danilo Gallinari SF",
-    "projection":27.6,
-    "team":"DEN",
-    "salary":"$6,700"
-  },
-  {
-    "name":"Jeff Green SF",
-    "projection":27.3,
-    "team":"MEM",
-    "salary":"$5,000"
-  },
-  {
-    "name":"Zach Randolph PF",
-    "projection":27.1,
-    "team":"MEM",
-    "salary":"$6,100"
-  },
-  {
-    "name":"LaMarcus Aldridge PF",
-    "projection":26.5,
-    "team":"SA",
-    "salary":"$7,000"
-  },
-  {
-    "name":"Evan Fournier SG",
-    "projection":26.4,
-    "team":"ORL",
-    "salary":"$5,600"
-  },
-  {
-    "name":"Chandler Parsons SF",
-    "projection":26.1,
-    "team":"DAL",
-    "salary":"$5,200"
+    "name":"Kentavious Caldwell-Pope SG",
+    "projection":24.9,
+    "team":"DET",
+    "salary":"$5,900"
   },
   {
     "name":"Jeremy Lin PG",
-    "projection":26,
+    "projection":24.6,
     "team":"CHA",
     "salary":"$5,300"
   },
   {
-    "name":"Dirk Nowitzki PF",
-    "projection":26,
-    "team":"DAL",
-    "salary":"$6,800"
-  },
-  {
-    "name":"Andrew Wiggins SF",
-    "projection":25.8,
-    "team":"MIN",
-    "salary":"$6,700"
-  },
-  {
-    "name":"Jahlil Okafor C",
-    "projection":25.5,
-    "team":"PHI",
-    "salary":"$6,200"
-  },
-  {
-    "name":"Jeff Withey C",
-    "projection":25.1,
-    "team":"UTA",
-    "salary":"$4,200"
-  },
-  {
-    "name":"Kenneth Faried PF",
-    "projection":24.7,
-    "team":"DEN",
-    "salary":"$6,400"
-  },
-  {
-    "name":"Serge Ibaka PF",
-    "projection":24.5,
-    "team":"OKC",
-    "salary":"$6,200"
-  },
-  {
-    "name":"Trey Burke PG",
-    "projection":24.5,
-    "team":"UTA",
-    "salary":"$5,000"
-  },
-  {
-    "name":"Nikola Jokic C",
+    "name":"Kyrie Irving PG",
     "projection":24.4,
-    "team":"DEN",
-    "salary":"$4,700"
+    "team":"CLE",
+    "salary":"$7,600"
   },
   {
-    "name":"Tony Parker PG",
-    "projection":24.1,
-    "team":"SA",
-    "salary":"$5,900"
-  },
-  {
-    "name":"Frank Kaminsky PF",
-    "projection":23.8,
-    "team":"CHA",
-    "salary":"$4,100"
-  },
-  {
-    "name":"Andrew Bogut C",
-    "projection":23.5,
-    "team":"GS",
+    "name":"Norris Cole PG",
+    "projection":24.2,
+    "team":"NO",
     "salary":"$4,400"
   },
   {
-    "name":"Rodney Hood SG",
+    "name":"Bojan Bogdanovic SF",
+    "projection":24.1,
+    "team":"BKN",
+    "salary":"$4,400"
+  },
+  {
+    "name":"Ersan Ilyasova PF",
+    "projection":24.1,
+    "team":"DET",
+    "salary":"$5,200"
+  },
+  {
+    "name":"Tim Duncan C",
+    "projection":23.9,
+    "team":"SA",
+    "salary":"$6,000"
+  },
+  {
+    "name":"Arron Afflalo SG",
+    "projection":23.5,
+    "team":"NY",
+    "salary":"$4,600"
+  },
+  {
+    "name":"Tony Parker PG",
+    "projection":23.4,
+    "team":"SA",
+    "salary":"$5,800"
+  },
+  {
+    "name":"Tobias Harris SF",
+    "projection":23.4,
+    "team":"ORL",
+    "salary":"$5,900"
+  },
+  {
+    "name":"Jonas Valanciunas C",
+    "projection":23.3,
+    "team":"TOR",
+    "salary":"$5,600"
+  },
+  {
+    "name":"Victor Oladipo SG",
+    "projection":23.1,
+    "team":"ORL",
+    "salary":"$5,700"
+  },
+  {
+    "name":"Ryan Anderson PF",
     "projection":23,
-    "team":"UTA",
-    "salary":"$4,900"
+    "team":"NO",
+    "salary":"$5,700"
   },
   {
     "name":"C.J. Miles SF",
     "projection":22.9,
     "team":"IND",
-    "salary":"$4,700"
-  },
-  {
-    "name":"Jameer Nelson PG",
-    "projection":22.7,
-    "team":"DEN",
-    "salary":"$5,000"
-  },
-  {
-    "name":"Jordan Hill C",
-    "projection":22.7,
-    "team":"IND",
-    "salary":"$4,800"
-  },
-  {
-    "name":"Ian Mahinmi C",
-    "projection":22.6,
-    "team":"IND",
-    "salary":"$5,300"
-  },
-  {
-    "name":"Tim Duncan C",
-    "projection":22.4,
-    "team":"SA",
-    "salary":"$6,200"
-  },
-  {
-    "name":"Ersan Ilyasova PF",
-    "projection":22.3,
-    "team":"DET",
-    "salary":"$5,300"
-  },
-  {
-    "name":"Gary Harris SG",
-    "projection":22.2,
-    "team":"DEN",
     "salary":"$4,400"
   },
   {
-    "name":"John Henson PF",
-    "projection":22.1,
-    "team":"MIL",
-    "salary":"$3,800"
+    "name":"Ramon Sessions PG",
+    "projection":22.6,
+    "team":"WAS",
+    "salary":"$4,300"
   },
   {
-    "name":"Matt Barnes SF",
-    "projection":21.9,
-    "team":"MEM",
+    "name":"Chandler Parsons SF",
+    "projection":22.5,
+    "team":"DAL",
     "salary":"$5,100"
   },
   {
-    "name":"Marcus Morris SF",
-    "projection":21.7,
-    "team":"DET",
-    "salary":"$5,400"
+    "name":"Gary Harris SG",
+    "projection":22.4,
+    "team":"DEN",
+    "salary":"$4,300"
   },
   {
-    "name":"Ryan Anderson PF",
+    "name":"Enes Kanter C",
+    "projection":22.3,
+    "team":"OKC",
+    "salary":"$4,800"
+  },
+  {
+    "name":"Jeff Green SF",
+    "projection":22,
+    "team":"MEM",
+    "salary":"$4,800"
+  },
+  {
+    "name":"Boris Diaw PF",
+    "projection":21.6,
+    "team":"SA",
+    "salary":"$4,200"
+  },
+  {
+    "name":"Wesley Matthews SG",
+    "projection":21.5,
+    "team":"DAL",
+    "salary":"$5,100"
+  },
+  {
+    "name":"Jrue Holiday PG",
     "projection":21.5,
     "team":"NO",
     "salary":"$5,600"
   },
   {
-    "name":"Kentavious Caldwell-Pope SG",
+    "name":"Allen Crabbe SG",
     "projection":21.5,
-    "team":"DET",
-    "salary":"$5,700"
+    "team":"POR",
+    "salary":"$4,600"
   },
   {
-    "name":"Wesley Matthews SG",
-    "projection":21.2,
-    "team":"DAL",
-    "salary":"$5,100"
-  },
-  {
-    "name":"Tristan Thompson PF",
-    "projection":21.1,
-    "team":"CLE",
+    "name":"Jeremy Lamb SG",
+    "projection":21.5,
+    "team":"CHA",
     "salary":"$4,500"
   },
   {
-    "name":"T.J. McConnell PG",
-    "projection":21.1,
-    "team":"PHI",
-    "salary":"$3,700"
+    "name":"Tristan Thompson PF",
+    "projection":21.3,
+    "team":"CLE",
+    "salary":"$4,700"
   },
   {
-    "name":"Isaiah Canaan PG",
-    "projection":20.8,
-    "team":"PHI",
+    "name":"Luis Scola PF",
+    "projection":21.2,
+    "team":"TOR",
     "salary":"$4,400"
   },
   {
-    "name":"Eric Gordon SG",
-    "projection":20.7,
-    "team":"NO",
-    "salary":"$4,800"
-  },
-  {
-    "name":"Shaun Livingston PG",
-    "projection":20.7,
-    "team":"GS",
-    "salary":"$3,900"
-  },
-  {
-    "name":"Clint Capela PF",
-    "projection":20.5,
-    "team":"HOU",
-    "salary":"$5,000"
-  },
-  {
-    "name":"Victor Oladipo SG",
-    "projection":20.5,
-    "team":"ORL",
-    "salary":"$5,800"
-  },
-  {
-    "name":"Jrue Holiday PG",
-    "projection":20.4,
-    "team":"NO",
-    "salary":"$5,400"
-  },
-  {
-    "name":"Joffrey Lauvergne C",
-    "projection":20.3,
-    "team":"DEN",
-    "salary":"$4,200"
-  },
-  {
-    "name":"Andre Iguodala SF",
-    "projection":20.1,
-    "team":"GS",
-    "salary":"$4,800"
-  },
-  {
-    "name":"Deron Williams PG",
-    "projection":19.6,
-    "team":"DAL",
-    "salary":"$6,500"
-  },
-  {
-    "name":"Norris Cole PG",
-    "projection":19.6,
-    "team":"NO",
-    "salary":"$4,000"
-  },
-  {
     "name":"Gorgui Dieng C",
-    "projection":19.5,
+    "projection":21.2,
     "team":"MIN",
     "salary":"$5,000"
   },
   {
-    "name":"Jerami Grant PF",
-    "projection":19.3,
-    "team":"PHI",
-    "salary":"$4,500"
+    "name":"Courtney Lee SG",
+    "projection":21.1,
+    "team":"MEM",
+    "salary":"$4,400"
   },
   {
-    "name":"David West PF",
-    "projection":19.2,
+    "name":"Manu Ginobili SG",
+    "projection":20.7,
     "team":"SA",
-    "salary":"$3,800"
+    "salary":"$4,600"
   },
   {
-    "name":"Terrence Jones PF",
-    "projection":19,
-    "team":"HOU",
-    "salary":"$4,800"
+    "name":"Cole Aldrich C",
+    "projection":20.7,
+    "team":"LAC",
+    "salary":"$4,000"
   },
   {
-    "name":"Andre Roberson SG",
-    "projection":18.9,
-    "team":"OKC",
-    "salary":"$3,500"
+    "name":"Amir Johnson C",
+    "projection":20.6,
+    "team":"BOS",
+    "salary":"$4,400"
+  },
+  {
+    "name":"Al-Farouq Aminu SF",
+    "projection":20.6,
+    "team":"POR",
+    "salary":"$5,100"
+  },
+  {
+    "name":"Ian Mahinmi C",
+    "projection":20,
+    "team":"IND",
+    "salary":"$5,000"
+  },
+  {
+    "name":"Jose Calderon PG",
+    "projection":19.9,
+    "team":"NY",
+    "salary":"$4,100"
+  },
+  {
+    "name":"Marcus Morris SF",
+    "projection":19.7,
+    "team":"DET",
+    "salary":"$5,200"
   },
   {
     "name":"Raymond Felton PG",
-    "projection":18.7,
+    "projection":19.6,
     "team":"DAL",
     "salary":"$4,800"
   },
   {
-    "name":"Ty Lawson PG",
-    "projection":18.6,
-    "team":"HOU",
-    "salary":"$3,800"
+    "name":"Eric Gordon SG",
+    "projection":19.6,
+    "team":"NO",
+    "salary":"$4,800"
   },
   {
-    "name":"Matthew Dellavedova PG",
-    "projection":18.6,
-    "team":"CLE",
-    "salary":"$4,500"
-  },
-  {
-    "name":"Lavoy Allen PF",
-    "projection":18.4,
-    "team":"IND",
+    "name":"David West PF",
+    "projection":19.4,
+    "team":"SA",
     "salary":"$3,900"
   },
   {
-    "name":"Randy Foye SG",
-    "projection":18,
+    "name":"Jordan Hill C",
+    "projection":19.4,
+    "team":"IND",
+    "salary":"$4,800"
+  },
+  {
+    "name":"Frank Kaminsky PF",
+    "projection":19.2,
+    "team":"CHA",
+    "salary":"$4,000"
+  },
+  {
+    "name":"Evan Fournier SG",
+    "projection":19.2,
+    "team":"ORL",
+    "salary":"$5,000"
+  },
+  {
+    "name":"Mario Chalmers PG",
+    "projection":19.1,
+    "team":"MEM",
+    "salary":"$4,300"
+  },
+  {
+    "name":"Jared Sullinger PF",
+    "projection":19,
+    "team":"BOS",
+    "salary":"$5,600"
+  },
+  {
+    "name":"Trevor Booker PF",
+    "projection":19,
+    "team":"UTA",
+    "salary":"$4,300"
+  },
+  {
+    "name":"Jon Leuer PF",
+    "projection":19,
+    "team":"PHO",
+    "salary":"$4,400"
+  },
+  {
+    "name":"Steven Adams C",
+    "projection":19,
+    "team":"OKC",
+    "salary":"$4,200"
+  },
+  {
+    "name":"Matt Barnes SF",
+    "projection":18.9,
+    "team":"MEM",
+    "salary":"$5,000"
+  },
+  {
+    "name":"Joffrey Lauvergne C",
+    "projection":18.8,
     "team":"DEN",
+    "salary":"$3,900"
+  },
+  {
+    "name":"Meyers Leonard C",
+    "projection":18.8,
+    "team":"POR",
+    "salary":"$4,000"
+  },
+  {
+    "name":"Marvin Williams PF",
+    "projection":18.8,
+    "team":"CHA",
+    "salary":"$4,700"
+  },
+  {
+    "name":"Devin Booker SG",
+    "projection":18.8,
+    "team":"PHO",
+    "salary":"$3,600"
+  },
+  {
+    "name":"Kelly Olynyk C",
+    "projection":18.7,
+    "team":"BOS",
+    "salary":"$4,300"
+  },
+  {
+    "name":"David Lee PF",
+    "projection":18.6,
+    "team":"BOS",
+    "salary":"$4,100"
+  },
+  {
+    "name":"Joe Johnson SG",
+    "projection":18.5,
+    "team":"BKN",
+    "salary":"$5,200"
+  },
+  {
+    "name":"Avery Bradley SG",
+    "projection":18.3,
+    "team":"BOS",
+    "salary":"$5,100"
+  },
+  {
+    "name":"Tyler Johnson PG",
+    "projection":18.2,
+    "team":"MIA",
+    "salary":"$4,000"
+  },
+  {
+    "name":"Bismack Biyombo C",
+    "projection":18.2,
+    "team":"TOR",
+    "salary":"$4,800"
+  },
+  {
+    "name":"J.R. Smith SG",
+    "projection":18.1,
+    "team":"CLE",
+    "salary":"$4,600"
+  },
+  {
+    "name":"Cameron Payne PG",
+    "projection":18.1,
+    "team":"OKC",
     "salary":"$3,700"
+  },
+  {
+    "name":"Mirza Teletovic PF",
+    "projection":18,
+    "team":"PHO",
+    "salary":"$3,900"
+  },
+  {
+    "name":"Tyson Chandler C",
+    "projection":17.8,
+    "team":"PHO",
+    "salary":"$4,000"
   },
   {
     "name":"Paul Pierce SF",
@@ -564,94 +720,136 @@
     "salary":"$3,900"
   },
   {
-    "name":"Jamal Crawford SG",
+    "name":"Derrick Williams PF",
     "projection":17.7,
+    "team":"NY",
+    "salary":"$3,800"
+  },
+  {
+    "name":"Maurice Harkless SF",
+    "projection":17.7,
+    "team":"POR",
+    "salary":"$3,600"
+  },
+  {
+    "name":"Matthew Dellavedova PG",
+    "projection":17.6,
+    "team":"CLE",
+    "salary":"$4,400"
+  },
+  {
+    "name":"Luol Deng SF",
+    "projection":17.4,
+    "team":"MIA",
+    "salary":"$4,400"
+  },
+  {
+    "name":"Jamal Crawford SG",
+    "projection":17.4,
     "team":"LAC",
     "salary":"$3,800"
   },
   {
-    "name":"Trevor Ariza SF",
-    "projection":17.6,
-    "team":"HOU",
-    "salary":"$5,200"
+    "name":"Deron Williams PG",
+    "projection":17.3,
+    "team":"DAL",
+    "salary":"$6,200"
   },
   {
-    "name":"Mario Chalmers PG",
-    "projection":17.6,
-    "team":"MEM",
-    "salary":"$4,400"
+    "name":"Mason Plumlee C",
+    "projection":17.3,
+    "team":"POR",
+    "salary":"$5,000"
   },
   {
-    "name":"Courtney Lee SG",
-    "projection":17.4,
-    "team":"MEM",
-    "salary":"$4,000"
+    "name":"P.J. Tucker SF",
+    "projection":17.3,
+    "team":"PHO",
+    "salary":"$4,300"
   },
   {
-    "name":"Aaron Gordon PF",
+    "name":"Tony Allen SG",
     "projection":17.2,
-    "team":"ORL",
-    "salary":"$3,700"
+    "team":"MEM",
+    "salary":"$3,900"
   },
   {
-    "name":"Manu Ginobili SG",
-    "projection":17.2,
-    "team":"SA",
-    "salary":"$4,500"
+    "name":"Gerald Green SG",
+    "projection":17.1,
+    "team":"MIA",
+    "salary":"$3,800"
   },
   {
     "name":"Boban Marjanovic C",
+    "projection":17.1,
+    "team":"SA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Wayne Ellington SG",
+    "projection":17.1,
+    "team":"BKN",
+    "salary":"$3,800"
+  },
+  {
+    "name":"Wesley Johnson SF",
+    "projection":17.1,
+    "team":"LAC",
+    "salary":"$3,700"
+  },
+  {
+    "name":"Nikola Jokic C",
+    "projection":17,
+    "team":"DEN",
+    "salary":"$4,500"
+  },
+  {
+    "name":"Danny Green SG",
     "projection":17,
     "team":"SA",
-    "salary":"$3,900"
+    "salary":"$3,800"
   },
   {
-    "name":"Cole Aldrich C",
-    "projection":16.9,
+    "name":"Austin Rivers PG",
+    "projection":17,
     "team":"LAC",
-    "salary":"$3,900"
-  },
-  {
-    "name":"Hollis Thompson SF",
-    "projection":16.9,
-    "team":"PHI",
-    "salary":"$3,500"
+    "salary":"$4,000"
   },
   {
     "name":"Rodney Stuckey SG",
     "projection":16.9,
     "team":"IND",
-    "salary":"$4,700"
+    "salary":"$4,500"
   },
   {
-    "name":"Jabari Parker PF",
-    "projection":16.8,
-    "team":"MIL",
-    "salary":"$4,400"
+    "name":"Shabazz Muhammad SF",
+    "projection":16.6,
+    "team":"MIN",
+    "salary":"$3,900"
   },
   {
-    "name":"Marvin Williams PF",
-    "projection":16.7,
-    "team":"CHA",
-    "salary":"$4,800"
+    "name":"Garrett Temple SG",
+    "projection":16.6,
+    "team":"WAS",
+    "salary":"$4,200"
   },
   {
-    "name":"Channing Frye PF",
-    "projection":16.7,
+    "name":"Aaron Gordon PF",
+    "projection":16.5,
     "team":"ORL",
-    "salary":"$3,800"
-  },
-  {
-    "name":"Festus Ezeli C",
-    "projection":16.4,
-    "team":"GS",
-    "salary":"$4,600"
-  },
-  {
-    "name":"Cameron Payne PG",
-    "projection":16.1,
-    "team":"OKC",
     "salary":"$3,600"
+  },
+  {
+    "name":"Ronnie Price PG",
+    "projection":16.2,
+    "team":"PHO",
+    "salary":"$3,600"
+  },
+  {
+    "name":"DeMarre Carroll SF",
+    "projection":16,
+    "team":"TOR",
+    "salary":"$5,400"
   },
   {
     "name":"Emmanuel Mudiay PG",
@@ -660,130 +858,88 @@
     "salary":"$4,900"
   },
   {
-    "name":"O.J. Mayo SG",
-    "projection":15.9,
-    "team":"MIL",
-    "salary":"$5,000"
-  },
-  {
-    "name":"Kyrie Irving PG",
-    "projection":15.8,
-    "team":"CLE",
-    "salary":"$7,600"
-  },
-  {
-    "name":"J.R. Smith SG",
-    "projection":15.8,
-    "team":"CLE",
-    "salary":"$4,600"
-  },
-  {
-    "name":"Elfrid Payton PG",
-    "projection":15.7,
-    "team":"ORL",
-    "salary":"$6,000"
+    "name":"Lavoy Allen PF",
+    "projection":15.4,
+    "team":"IND",
+    "salary":"$3,600"
   },
   {
     "name":"Stanley Johnson SF",
-    "projection":15.7,
+    "projection":15.4,
     "team":"DET",
     "salary":"$3,800"
   },
   {
-    "name":"Patrick Beverley PG",
-    "projection":15.7,
-    "team":"HOU",
-    "salary":"$4,200"
-  },
-  {
-    "name":"Darrell Arthur PF",
-    "projection":15.6,
-    "team":"DEN",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Robert Covington SF",
-    "projection":15.4,
-    "team":"PHI",
-    "salary":"$5,000"
-  },
-  {
-    "name":"Trevor Booker PF",
-    "projection":15.4,
-    "team":"UTA",
-    "salary":"$4,300"
-  },
-  {
-    "name":"Jeremy Lamb SG",
-    "projection":15.1,
-    "team":"CHA",
-    "salary":"$4,200"
-  },
-  {
-    "name":"Boris Diaw PF",
-    "projection":14.9,
-    "team":"SA",
-    "salary":"$3,700"
-  },
-  {
-    "name":"Iman Shumpert SG",
+    "name":"Andrew Nicholson PF",
     "projection":14.8,
-    "team":"CLE",
-    "salary":"$4,400"
-  },
-  {
-    "name":"Anthony Tolliver PF",
-    "projection":14.8,
-    "team":"DET",
-    "salary":"$3,700"
-  },
-  {
-    "name":"Zach LaVine SG",
-    "projection":14.8,
-    "team":"MIN",
-    "salary":"$4,700"
-  },
-  {
-    "name":"Tony Wroten PG",
-    "projection":14.7,
-    "team":"PHI",
-    "salary":"$5,100"
-  },
-  {
-    "name":"Alec Burks SG",
-    "projection":14.7,
-    "team":"UTA",
-    "salary":"$4,800"
-  },
-  {
-    "name":"Ian Clark SG",
-    "projection":14.1,
-    "team":"GS",
-    "salary":"$3,700"
-  },
-  {
-    "name":"Marcus Thornton SG",
-    "projection":14,
-    "team":"HOU",
+    "team":"ORL",
     "salary":"$3,600"
   },
   {
-    "name":"Steven Adams C",
-    "projection":13.9,
-    "team":"OKC",
+    "name":"Spencer Hawes C",
+    "projection":14.8,
+    "team":"CHA",
+    "salary":"$3,800"
+  },
+  {
+    "name":"Trey Lyles PF",
+    "projection":14.5,
+    "team":"UTA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Terrence Ross SG",
+    "projection":14.4,
+    "team":"TOR",
     "salary":"$3,900"
   },
   {
-    "name":"Danny Green SG",
-    "projection":13.9,
-    "team":"SA",
+    "name":"Solomon Hill SG",
+    "projection":14.3,
+    "team":"IND",
     "salary":"$3,500"
   },
   {
-    "name":"Wesley Johnson SF",
-    "projection":13.7,
-    "team":"LAC",
+    "name":"Patrick Patterson PF",
+    "projection":14.2,
+    "team":"TOR",
+    "salary":"$3,600"
+  },
+  {
+    "name":"Gary Neal SG",
+    "projection":14.1,
+    "team":"WAS",
+    "salary":"$3,800"
+  },
+  {
+    "name":"Brandon Jennings PG",
+    "projection":14,
+    "team":"DET",
+    "salary":"$5,500"
+  },
+  {
+    "name":"Kelly Oubre SF",
+    "projection":14,
+    "team":"WAS",
     "salary":"$3,500"
+  },
+  {
+    "name":"Anthony Tolliver PF",
+    "projection":13.8,
+    "team":"DET",
+    "salary":"$3,600"
+  },
+  {
+    "name":"Andre Roberson SG",
+    "projection":13.8,
+    "team":"OKC",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Dion Waiters SG",
+    "projection":13.8,
+    "team":"OKC",
+    "salary":"$4,000"
   },
   {
     "name":"J.J. Redick SG",
@@ -792,28 +948,52 @@
     "salary":"$5,000"
   },
   {
-    "name":"Steve Blake PG",
-    "projection":13.5,
-    "team":"DET",
-    "salary":"$3,600"
+    "name":"Markieff Morris PF",
+    "projection":13.7,
+    "team":"PHO",
+    "salary":"$4,400"
   },
   {
-    "name":"Joe Ingles SF",
+    "name":"Jared Dudley SF",
+    "projection":13.7,
+    "team":"WAS",
+    "salary":"$3,900"
+  },
+  {
+    "name":"Kevin Garnett PF",
     "projection":13.4,
-    "team":"UTA",
+    "team":"MIN",
     "salary":"$3,500"
   },
   {
-    "name":"Trey Lyles PF",
-    "projection":13.3,
-    "team":"UTA",
-    "salary":"$3,600"
+    "name":"Josh McRoberts PF",
+    "projection":13.4,
+    "team":"MIA",
+    "salary":"$3,500"
   },
   {
-    "name":"Austin Rivers PG",
+    "name":"Noah Vonleh PF",
+    "projection":13.2,
+    "team":"POR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jason Smith PF",
+    "projection":13.2,
+    "team":"ORL",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Iman Shumpert SG",
+    "projection":13.1,
+    "team":"CLE",
+    "salary":"$4,100"
+  },
+  {
+    "name":"Justise Winslow SF",
     "projection":13,
-    "team":"LAC",
-    "salary":"$3,700"
+    "team":"MIA",
+    "salary":"$3,500"
   },
   {
     "name":"Kevin Martin SG",
@@ -822,82 +1002,112 @@
     "salary":"$3,900"
   },
   {
-    "name":"Kevin Garnett PF",
-    "projection":12.9,
-    "team":"MIN",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Omer Asik C",
-    "projection":12.8,
-    "team":"NO",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Dwight Powell PF",
-    "projection":12.4,
-    "team":"DAL",
-    "salary":"$3,700"
-  },
-  {
-    "name":"Shabazz Muhammad SF",
-    "projection":12.4,
-    "team":"MIN",
+    "name":"Anthony Morrow SG",
+    "projection":12.7,
+    "team":"OKC",
     "salary":"$3,600"
   },
   {
-    "name":"Spencer Hawes C",
-    "projection":12.3,
-    "team":"CHA",
-    "salary":"$3,800"
-  },
-  {
-    "name":"Richaun Holmes PF",
-    "projection":12.2,
-    "team":"PHI",
+    "name":"Steve Blake PG",
+    "projection":12.7,
+    "team":"DET",
     "salary":"$3,500"
   },
   {
-    "name":"JaMychal Green PF",
-    "projection":12.2,
-    "team":"MEM",
-    "salary":"$3,500"
+    "name":"Marcus Smart PG",
+    "projection":12.7,
+    "team":"BOS",
+    "salary":"$4,800"
   },
   {
-    "name":"Jakarr Sampson SF",
-    "projection":12.2,
-    "team":"PHI",
-    "salary":"$3,500"
+    "name":"Shane Larkin PG",
+    "projection":12.6,
+    "team":"BKN",
+    "salary":"$4,300"
   },
   {
-    "name":"Jerryd Bayless PG",
-    "projection":12,
-    "team":"MIL",
-    "salary":"$4,600"
-  },
-  {
-    "name":"Charlie Villanueva PF",
-    "projection":11.6,
-    "team":"DAL",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Tony Allen SG",
-    "projection":11.6,
-    "team":"MEM",
-    "salary":"$3,600"
-  },
-  {
-    "name":"Jason Smith PF",
-    "projection":11.5,
+    "name":"Channing Frye PF",
+    "projection":12.6,
     "team":"ORL",
     "salary":"$3,500"
   },
   {
-    "name":"Miles Plumlee C",
-    "projection":11.4,
-    "team":"MIL",
+    "name":"Aron Baynes C",
+    "projection":12.3,
+    "team":"DET",
+    "salary":"$3,700"
+  },
+  {
+    "name":"Kris Humphries PF",
+    "projection":12.2,
+    "team":"WAS",
     "salary":"$3,500"
+  },
+  {
+    "name":"Dwight Powell PF",
+    "projection":12.1,
+    "team":"DAL",
+    "salary":"$3,500"
+  },
+  {
+    "name":"T.J. Warren SF",
+    "projection":12.1,
+    "team":"PHO",
+    "salary":"$4,300"
+  },
+  {
+    "name":"Tayshaun Prince SF",
+    "projection":12,
+    "team":"MIN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Ed Davis PF",
+    "projection":11.9,
+    "team":"POR",
+    "salary":"$3,800"
+  },
+  {
+    "name":"Cory Joseph PG",
+    "projection":11.9,
+    "team":"TOR",
+    "salary":"$3,700"
+  },
+  {
+    "name":"Darrell Arthur PF",
+    "projection":11.9,
+    "team":"DEN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Elfrid Payton PG",
+    "projection":11.9,
+    "team":"ORL",
+    "salary":"$5,700"
+  },
+  {
+    "name":"Chase Budinger SF",
+    "projection":11.7,
+    "team":"IND",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Donald Sloan PG",
+    "projection":11.6,
+    "team":"BKN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Kyle O'Quinn C",
+    "projection":11.4,
+    "team":"NY",
+    "salary":"$3,800"
+  },
+  {
+    "name":"Lance Thomas SF",
+    "projection":11.4,
+    "team":"NY",
+    "salary":"$4,000"
   },
   {
     "name":"J.J. Hickson PF",
@@ -906,22 +1116,40 @@
     "salary":"$4,000"
   },
   {
-    "name":"Kostas Papanikolaou SF",
-    "projection":11.3,
+    "name":"Timofey Mozgov C",
+    "projection":11.2,
+    "team":"CLE",
+    "salary":"$3,500"
+  },
+  {
+    "name":"JaMychal Green PF",
+    "projection":11.1,
+    "team":"MEM",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Gerald Henderson SG",
+    "projection":11.1,
+    "team":"POR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Randy Foye SG",
+    "projection":11,
     "team":"DEN",
     "salary":"$3,500"
   },
   {
-    "name":"Chase Budinger SF",
-    "projection":11,
+    "name":"Myles Turner PF",
+    "projection":10.9,
     "team":"IND",
     "salary":"$3,500"
   },
   {
-    "name":"Raul Neto PG",
+    "name":"Langston Galloway SG",
     "projection":10.8,
-    "team":"UTA",
-    "salary":"$3,500"
+    "team":"NY",
+    "salary":"$3,900"
   },
   {
     "name":"Devin Harris SG",
@@ -930,141 +1158,111 @@
     "salary":"$3,600"
   },
   {
-    "name":"Tayshaun Prince SF",
-    "projection":10.5,
+    "name":"Zach LaVine SG",
+    "projection":10.3,
     "team":"MIN",
+    "salary":"$4,300"
+  },
+  {
+    "name":"James Johnson SF",
+    "projection":10.3,
+    "team":"TOR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jonathon Simmons SG",
+    "projection":10.3,
+    "team":"SA",
+    "salary":"$3,600"
+  },
+  {
+    "name":"Willie Reed PF",
+    "projection":10.1,
+    "team":"BKN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Omer Asik C",
+    "projection":10.1,
+    "team":"NO",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Alex Len C",
+    "projection":9.7,
+    "team":"PHO",
+    "salary":"$4,300"
+  },
+  {
+    "name":"Shabazz Napier PG",
+    "projection":9.6,
+    "team":"ORL",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Chris Johnson SG",
+    "projection":9.4,
+    "team":"UTA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Tim Frazier PG",
+    "projection":9.1,
+    "team":"POR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Amar'e Stoudemire PF",
+    "projection":8.9,
+    "team":"MIA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jonas Jerebko PF",
+    "projection":8.8,
+    "team":"BOS",
     "salary":"$3,500"
   },
   {
     "name":"Josh Smith PF",
-    "projection":10.3,
+    "projection":8.7,
     "team":"LAC",
     "salary":"$3,500"
   },
   {
-    "name":"Solomon Hill SG",
-    "projection":10.2,
-    "team":"IND",
-    "salary":"$3,500"
+    "name":"Mo Williams PG",
+    "projection":8.4,
+    "team":"CLE",
+    "salary":"$4,200"
   },
   {
-    "name":"Kyle Anderson SF",
-    "projection":10,
-    "team":"SA",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Timofey Mozgov C",
-    "projection":9.9,
+    "name":"Richard Jefferson SF",
+    "projection":8.4,
     "team":"CLE",
     "salary":"$3,500"
   },
   {
     "name":"Tyus Jones PG",
-    "projection":9.7,
+    "projection":8.4,
     "team":"MIN",
     "salary":"$3,500"
   },
   {
-    "name":"Johnny O'Bryant C",
-    "projection":9.7,
-    "team":"MIL",
+    "name":"Raul Neto PG",
+    "projection":8.3,
+    "team":"UTA",
     "salary":"$3,500"
-  },
-  {
-    "name":"Jason Terry PG",
-    "projection":9.6,
-    "team":"HOU",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Dion Waiters SG",
-    "projection":9.3,
-    "team":"OKC",
-    "salary":"$4,000"
-  },
-  {
-    "name":"Nik Stauskas SG",
-    "projection":9.2,
-    "team":"PHI",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Carl Landry PF",
-    "projection":9.2,
-    "team":"PHI",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Brandon Rush SG",
-    "projection":9.2,
-    "team":"GS",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Kendall Marshall PG",
-    "projection":9.1,
-    "team":"PHI",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Richard Jefferson SF",
-    "projection":9.1,
-    "team":"CLE",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Anthony Morrow SG",
-    "projection":8.9,
-    "team":"OKC",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Mo Williams PG",
-    "projection":8.8,
-    "team":"CLE",
-    "salary":"$4,300"
   },
   {
     "name":"Pablo Prigioni PG",
-    "projection":8.8,
+    "projection":8.3,
     "team":"LAC",
     "salary":"$3,500"
   },
   {
-    "name":"Marreese Speights PF",
-    "projection":8.8,
-    "team":"GS",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Corey Brewer SF",
-    "projection":8.7,
-    "team":"HOU",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Andrew Nicholson PF",
-    "projection":8.2,
-    "team":"ORL",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Adreian Payne PF",
+    "name":"Brian Roberts PG",
     "projection":8.1,
-    "team":"MIN",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Ray McCallum PG",
-    "projection":8,
-    "team":"SA",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Chris Johnson SG",
-    "projection":8,
-    "team":"UTA",
+    "team":"CHA",
     "salary":"$3,500"
   },
   {
@@ -1074,33 +1272,51 @@
     "salary":"$3,500"
   },
   {
-    "name":"Aron Baynes C",
-    "projection":8,
-    "team":"DET",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Myles Turner PF",
+    "name":"Charlie Villanueva PF",
     "projection":7.9,
-    "team":"IND",
-    "salary":"$3,600"
+    "team":"DAL",
+    "salary":"$3,500"
   },
   {
-    "name":"Mario Hezonja SF",
+    "name":"Joe Ingles SF",
+    "projection":7.8,
+    "team":"UTA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Archie Goodwin PG",
+    "projection":7.8,
+    "team":"PHO",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jerian Grant PG",
+    "projection":7.6,
+    "team":"NY",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Beno Udrih PG",
+    "projection":7.6,
+    "team":"MIA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"James Jones SF",
     "projection":7.5,
-    "team":"ORL",
+    "team":"CLE",
     "salary":"$3,500"
   },
   {
-    "name":"Brian Roberts PG",
-    "projection":7.3,
-    "team":"CHA",
+    "name":"Adreian Payne PF",
+    "projection":7.4,
+    "team":"MIN",
     "salary":"$3,500"
   },
   {
-    "name":"Leandro Barbosa SG",
-    "projection":7.1,
-    "team":"GS",
+    "name":"Alonzo Gee SF",
+    "projection":7,
+    "team":"NO",
     "salary":"$3,500"
   },
   {
@@ -1110,21 +1326,33 @@
     "salary":"$7,100"
   },
   {
-    "name":"Alonzo Gee SF",
+    "name":"Mario Hezonja SF",
+    "projection":6.9,
+    "team":"ORL",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Ray McCallum PG",
     "projection":6.8,
-    "team":"NO",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Anderson Varejao C",
-    "projection":6.6,
-    "team":"CLE",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Jonathon Simmons SG",
-    "projection":6.6,
     "team":"SA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Kyle Anderson SF",
+    "projection":6.7,
+    "team":"SA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Kostas Papanikolaou SF",
+    "projection":6.6,
+    "team":"DEN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"JaVale McGee C",
+    "projection":6.6,
+    "team":"DAL",
     "salary":"$3,500"
   },
   {
@@ -1135,26 +1363,38 @@
   },
   {
     "name":"Kyle Singler SF",
-    "projection":6.3,
+    "projection":6.4,
     "team":"OKC",
     "salary":"$3,500"
   },
   {
-    "name":"Donatas Motiejunas PF",
+    "name":"Dewayne Dedmon C",
     "projection":6.2,
-    "team":"HOU",
-    "salary":"$3,800"
-  },
-  {
-    "name":"Tyler Ennis PG",
-    "projection":6,
-    "team":"MIL",
+    "team":"ORL",
     "salary":"$3,500"
   },
   {
-    "name":"Vince Carter SF",
+    "name":"Kevin Seraphin PF",
+    "projection":6,
+    "team":"NY",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Nemanja Bjelica SF",
     "projection":5.9,
-    "team":"MEM",
+    "team":"MIN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Tyler Hansbrough PF",
+    "projection":5.9,
+    "team":"CHA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Tyler Zeller C",
+    "projection":5.9,
+    "team":"BOS",
     "salary":"$3,500"
   },
   {
@@ -1164,16 +1404,10 @@
     "salary":"$3,500"
   },
   {
-    "name":"JaVale McGee C",
-    "projection":5.8,
-    "team":"DAL",
+    "name":"Thomas Robinson PF",
+    "projection":5.7,
+    "team":"BKN",
     "salary":"$3,500"
-  },
-  {
-    "name":"Brandon Jennings PG",
-    "projection":5.8,
-    "team":"DET",
-    "salary":"$5,600"
   },
   {
     "name":"P.J. Hairston SF",
@@ -1182,40 +1416,40 @@
     "salary":"$3,500"
   },
   {
-    "name":"Shabazz Napier PG",
+    "name":"Anderson Varejao C",
     "projection":5.6,
-    "team":"ORL",
+    "team":"CLE",
     "salary":"$3,500"
   },
   {
-    "name":"Mike Miller SF",
-    "projection":5.5,
+    "name":"Jusuf Nurkic C",
+    "projection":5.6,
     "team":"DEN",
-    "salary":"$3,500"
+    "salary":"$3,900"
   },
   {
-    "name":"Jason Thompson PF",
-    "projection":5.4,
-    "team":"GS",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Matt Bonner C",
-    "projection":5.4,
-    "team":"SA",
+    "name":"Kendrick Perkins C",
+    "projection":5.5,
+    "team":"NO",
     "salary":"$3,500"
   },
   {
     "name":"Lance Stephenson SG",
-    "projection":5,
+    "projection":5.4,
     "team":"LAC",
     "salary":"$3,500"
   },
   {
-    "name":"Kendrick Perkins C",
-    "projection":5,
-    "team":"NO",
+    "name":"Louis Amundson PF",
+    "projection":5.3,
+    "team":"NY",
     "salary":"$3,500"
+  },
+  {
+    "name":"Rondae Hollis-Jefferson SF",
+    "projection":5.1,
+    "team":"BKN",
+    "salary":"$4,000"
   },
   {
     "name":"Luc Richard Mbah a Moute SF",
@@ -1224,15 +1458,27 @@
     "salary":"$3,500"
   },
   {
-    "name":"Nick Collison PF",
-    "projection":4.6,
-    "team":"OKC",
+    "name":"Josh Richardson SG",
+    "projection":4.9,
+    "team":"MIA",
     "salary":"$3,500"
   },
   {
-    "name":"Jared Cunningham SG",
+    "name":"Mike Miller SF",
+    "projection":4.9,
+    "team":"DEN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Andre Miller PG",
+    "projection":4.8,
+    "team":"MIN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Sonny Weems SF",
     "projection":4.6,
-    "team":"CLE",
+    "team":"PHO",
     "salary":"$3,500"
   },
   {
@@ -1242,34 +1488,58 @@
     "salary":"$3,500"
   },
   {
-    "name":"Ryan Hollins PF",
-    "projection":4,
-    "team":"MEM",
-    "salary":"$4,000"
+    "name":"Troy Daniels SG",
+    "projection":4.5,
+    "team":"CHA",
+    "salary":"$3,500"
   },
   {
-    "name":"James Jones SF",
+    "name":"Norman Powell SG",
+    "projection":4.4,
+    "team":"TOR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Udonis Haslem PF",
+    "projection":4.1,
+    "team":"MIA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jared Cunningham SG",
     "projection":4,
     "team":"CLE",
     "salary":"$3,500"
   },
   {
-    "name":"Nemanja Bjelica SF",
-    "projection":4,
-    "team":"MIN",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Tyler Hansbrough PF",
+    "name":"Ryan Hollins PF",
     "projection":3.9,
-    "team":"CHA",
+    "team":"MEM",
     "salary":"$3,500"
   },
   {
-    "name":"Al Jefferson C",
+    "name":"Vince Carter SF",
+    "projection":3.9,
+    "team":"MEM",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Andrea Bargnani C",
+    "projection":3.8,
+    "team":"BKN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Tibor Pleiss C",
     "projection":3.7,
-    "team":"CHA",
-    "salary":"$5,800"
+    "team":"UTA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"DeJuan Blair C",
+    "projection":3.6,
+    "team":"WAS",
+    "salary":"$3,500"
   },
   {
     "name":"Russ Smith PG",
@@ -1278,9 +1548,9 @@
     "salary":"$3,500"
   },
   {
-    "name":"Rashad Vaughn SG",
-    "projection":3.6,
-    "team":"MIL",
+    "name":"Cory Jefferson PF",
+    "projection":3.4,
+    "team":"PHO",
     "salary":"$3,500"
   },
   {
@@ -1296,9 +1566,15 @@
     "salary":"$3,500"
   },
   {
-    "name":"Andre Miller PG",
-    "projection":3.1,
-    "team":"MIN",
+    "name":"Anthony Bennett PF",
+    "projection":3.2,
+    "team":"TOR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Chris Andersen C",
+    "projection":3,
+    "team":"MIA",
     "salary":"$3,500"
   },
   {
@@ -1308,9 +1584,21 @@
     "salary":"$3,500"
   },
   {
-    "name":"Troy Daniels SG",
-    "projection":2.9,
-    "team":"CHA",
+    "name":"Joel Anthony C",
+    "projection":3,
+    "team":"DET",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Lucas Nogueira C",
+    "projection":2.8,
+    "team":"TOR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"James Young SF",
+    "projection":2.8,
+    "team":"BOS",
     "salary":"$3,500"
   },
   {
@@ -1320,15 +1608,9 @@
     "salary":"$3,500"
   },
   {
-    "name":"Glenn Robinson III SF",
+    "name":"Toney Douglas PG",
     "projection":2.7,
-    "team":"IND",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Christian Wood PF",
-    "projection":2.5,
-    "team":"PHI",
+    "team":"NO",
     "salary":"$3,500"
   },
   {
@@ -1338,39 +1620,27 @@
     "salary":"$3,500"
   },
   {
-    "name":"Joel Anthony C",
-    "projection":2.4,
-    "team":"DET",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Toney Douglas PG",
+    "name":"Nick Collison PF",
     "projection":2.3,
-    "team":"NO",
+    "team":"OKC",
     "salary":"$3,500"
   },
   {
-    "name":"Aaron Harrison PG",
+    "name":"Luis Montero SF",
     "projection":2.3,
-    "team":"CHA",
+    "team":"POR",
     "salary":"$3,500"
   },
   {
-    "name":"K.J. McDaniels SF",
-    "projection":2.2,
-    "team":"HOU",
+    "name":"Glenn Robinson III SF",
+    "projection":2.3,
+    "team":"IND",
     "salary":"$3,500"
   },
   {
-    "name":"Dewayne Dedmon C",
-    "projection":2.2,
-    "team":"ORL",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Darrun Hilliard SG",
-    "projection":2.2,
-    "team":"DET",
+    "name":"Sasha Vujacic SG",
+    "projection":2.1,
+    "team":"NY",
     "salary":"$3,500"
   },
   {
@@ -1380,9 +1650,39 @@
     "salary":"$3,500"
   },
   {
-    "name":"James Michael McAdoo PF",
+    "name":"Aaron Harrison PG",
+    "projection":1.9,
+    "team":"CHA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Bryce Cotton PG",
+    "projection":1.9,
+    "team":"PHO",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Markel Brown SG",
+    "projection":1.8,
+    "team":"BKN",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Darrun Hilliard SG",
+    "projection":1.8,
+    "team":"DET",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Matt Bonner C",
     "projection":1.7,
-    "team":"GS",
+    "team":"SA",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Terry Rozier PG",
+    "projection":1.7,
+    "team":"BOS",
     "salary":"$3,500"
   },
   {
@@ -1398,9 +1698,21 @@
     "salary":"$3,500"
   },
   {
+    "name":"Delon Wright PG",
+    "projection":1.2,
+    "team":"TOR",
+    "salary":"$3,500"
+  },
+  {
     "name":"Luke Babbitt SF",
     "projection":1,
     "team":"NO",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Sergey Karasev SF",
+    "projection":1,
+    "team":"BKN",
     "salary":"$3,500"
   },
   {
@@ -1416,40 +1728,136 @@
     "salary":"$3,500"
   },
   {
+    "name":"Pat Connaughton SG",
+    "projection":0.9,
+    "team":"POR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Chris Kaman C",
+    "projection":0.8,
+    "team":"POR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Drew Gooden PF",
+    "projection":0.6,
+    "team":"WAS",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Reggie Bullock SF",
+    "projection":0.5,
+    "team":"DET",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jordan Mickey PF",
+    "projection":0.4,
+    "team":"BOS",
+    "salary":"$3,500"
+  },
+  {
     "name":"Jarell Martin PF",
     "projection":0.4,
     "team":"MEM",
     "salary":"$3,500"
   },
   {
-    "name":"Chris Copeland SF",
-    "projection":0.3,
-    "team":"MIL",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Montrezl Harrell PF",
-    "projection":0.3,
-    "team":"HOU",
-    "salary":"$3,500"
-  },
-  {
     "name":"Mitch McGary PF",
-    "projection":0,
+    "projection":0.2,
     "team":"OKC",
     "salary":"$3,500"
   },
   {
-    "name":"Harrison Barnes SF",
+    "name":"Jarnell Stokes PF",
     "projection":0,
-    "team":"GS",
-    "salary":"$5,200"
+    "team":"MIA",
+    "salary":"$3,500"
   },
   {
-    "name":"Jusuf Nurkic C",
+    "name":"C.J. Watson PG",
     "projection":0,
-    "team":"DEN",
-    "salary":"$4,000"
+    "team":"ORL",
+    "salary":"$3,600"
+  },
+  {
+    "name":"Rakeem Christmas PF",
+    "projection":0,
+    "team":"IND",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Roy Devyn Marble SG",
+    "projection":0,
+    "team":"ORL",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Joseph Young SG",
+    "projection":0,
+    "team":"IND",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Brad Beal SG",
+    "projection":0,
+    "team":"WAS",
+    "salary":"$7,200"
+  },
+  {
+    "name":"Nene Hilario PF",
+    "projection":0,
+    "team":"WAS",
+    "salary":"$4,100"
+  },
+  {
+    "name":"Joe Harris SG",
+    "projection":0,
+    "team":"CLE",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jarell Eddie SG",
+    "projection":0,
+    "team":"WAS",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Alan Anderson SG",
+    "projection":0,
+    "team":"WAS",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Martell Webster SF",
+    "projection":0,
+    "team":"WAS",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Bruno Caboclo SF",
+    "projection":0,
+    "team":"TOR",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Jodie Meeks SG",
+    "projection":0,
+    "team":"DET",
+    "salary":"$3,600"
+  },
+  {
+    "name":"RJ Hunter SG",
+    "projection":0,
+    "team":"BOS",
+    "salary":"$3,500"
+  },
+  {
+    "name":"Nikola Pekovic C",
+    "projection":0,
+    "team":"MIN",
+    "salary":"$4,800"
   },
   {
     "name":"Erick Green SG",
@@ -1461,7 +1869,7 @@
     "name":"Jose Juan Barea PG",
     "projection":0,
     "team":"DAL",
-    "salary":"$4,400"
+    "salary":"$4,600"
   },
   {
     "name":"Quincy Pondexter SF",
@@ -1482,72 +1890,6 @@
     "salary":"$3,800"
   },
   {
-    "name":"Chuck Hayes C",
-    "projection":0,
-    "team":"HOU",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Sam Dekker SF",
-    "projection":0,
-    "team":"HOU",
-    "salary":"$3,500"
-  },
-  {
-    "name":"C.J. Watson PG",
-    "projection":0,
-    "team":"ORL",
-    "salary":"$3,600"
-  },
-  {
-    "name":"Joe Harris SG",
-    "projection":0,
-    "team":"CLE",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Roy Devyn Marble SG",
-    "projection":0,
-    "team":"ORL",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Jodie Meeks SG",
-    "projection":0,
-    "team":"DET",
-    "salary":"$3,600"
-  },
-  {
-    "name":"Rakeem Christmas PF",
-    "projection":0,
-    "team":"IND",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Joseph Young SG",
-    "projection":0,
-    "team":"IND",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Reggie Bullock SF",
-    "projection":0,
-    "team":"DET",
-    "salary":"$3,500"
-  },
-  {
-    "name":"Ishmael Smith PG",
-    "projection":0,
-    "team":"PHI",
-    "salary":"$5,800"
-  },
-  {
-    "name":"Phil (Flip) Pressey PG",
-    "projection":0,
-    "team":"PHI",
-    "salary":"$3,500"
-  },
-  {
     "name":"Brandan Wright C",
     "projection":0,
     "team":"MEM",
@@ -1560,27 +1902,15 @@
     "salary":"$3,500"
   },
   {
-    "name":"Nikola Pekovic C",
+    "name":"Cliff Alexander PF",
     "projection":0,
-    "team":"MIN",
-    "salary":"$4,800"
-  },
-  {
-    "name":"Greivis Vasquez PG",
-    "projection":0,
-    "team":"MIL",
-    "salary":"$3,600"
-  },
-  {
-    "name":"Tibor Pleiss C",
-    "projection":-0.2,
-    "team":"UTA",
+    "team":"POR",
     "salary":"$3,500"
   },
   {
-    "name":"Damien Inglis SF",
+    "name":"Cleanthony Early SF",
     "projection":-0.2,
-    "team":"MIL",
+    "team":"NY",
     "salary":"$3,500"
   }
 ]

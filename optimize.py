@@ -69,12 +69,12 @@ def get_correct_positions():
             last_name = row['Last Name']
             position_map[first_name + ' ' + last_name] = position
             
-def run():
+def run(index):
     solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
 
     all_players = []
     get_correct_positions()
-    with open('players.csv', 'rb') as csvfile:
+    with open('analysis/players' + str(index) + '.csv', 'rb') as csvfile:
         csvdata = csv.DictReader(csvfile, skipinitialspace=True)
 
         for row in csvdata:
@@ -117,6 +117,65 @@ def run():
             if variables[i].solution_value() == 1:
                 roster.add_player(player)
 
+        # print "Optimal roster for: $%s\n" % SALARY_CAP
+        # print roster
+        return roster
+
+    else:
+        print "No solution :("
+
+
+if __name__ == "__main__":
+    rosters = []
+    final_roster = {}
+    for i in range(1,100):
+        rosters.append(run(i))
+
+    for roster in rosters:
+        for player in roster.players:
+            if player.name in final_roster:
+                final_roster[player.name][1] += 1 
+            else:
+                final_roster[player.name] = [player.position, 1]
+ 
+    sorted_final_roster = sorted(final_roster.items(), key=lambda (k, v): v, reverse=True)
+    print sorted_final_roster
+
+    solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
+
+    all_players = sorted_final_roster
+
+    variables = []
+
+    for player in all_players:
+        variables.append(solver.IntVar(0, 1, player[0]))
+        
+    objective = solver.Objective()
+    objective.SetMaximization()
+
+    for i, player in enumerate(all_players):
+        objective.SetCoefficient(variables[i], player[1][1])
+
+    for position, limit in POSITION_LIMITS:
+        position_cap = solver.Constraint(0, limit)
+
+        for i, player in enumerate(all_players):
+            if position == player[1][0]:
+                position_cap.SetCoefficient(variables[i], 1)
+
+    size_cap = solver.Constraint(ROSTER_SIZE, ROSTER_SIZE)
+    for variable in variables:
+        size_cap.SetCoefficient(variable, 1)
+
+    solution = solver.Solve()
+
+    if solution == solver.OPTIMAL:
+        roster = []
+
+        for i, player in enumerate(all_players):
+            if variables[i].solution_value() == 1:
+                roster.append(player)
+
         print "Optimal roster for: $%s\n" % SALARY_CAP
         print roster
 
@@ -124,5 +183,3 @@ def run():
         print "No solution :("
 
 
-if __name__ == "__main__":
-    run()
